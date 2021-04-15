@@ -15,8 +15,8 @@
 - __*Stardew Valley*__ ``(Multiplayer com Amigos)``
 - __*Talisman Online Brasil*__ ``(com Amigos)``
 ## ``Status``
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKing-github&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImKing-github)](https://github.com/ImKing-github&theme=radical/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKing-github&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImKing-github&layout=compact)](https://github.com/ImKing-github/github-readme-stats)
 <!--
 **ImKing-github/ImKing-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
