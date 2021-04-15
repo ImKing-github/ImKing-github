@@ -6,7 +6,6 @@
 - Reddit: __*_ImKing*__
 - Steam: __*_ImKing*__
 - YouTube: __*_ImKing*__
-- Twitch: __*_ImKing*__
 #### Amigos/Irmãos: 
 - VENAS OP | _https://www.youtube.com/channel/UC4dqPO4PzGjvYcwuRGa5FzQ_
 - Sad God  | _https://www.youtube.com/channel/UCbHIO2RQQ44O3JVpCIywW3A_ ``(github: https://github.com/Sad-debug)``
