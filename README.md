@@ -15,7 +15,7 @@
 ## ``Jogos que eu Jogo``
 - __*Minecraft: Java Edition*__ ``(Anarquia/Minigames/Survival Vanilla)``
 - __*Stardew Valley*__ ``(Multiplayer com Amigos)``
-- ## ``Status``
+## ``Status``
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKing-github&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImKing-github&layout=compact)](https://github.com/ImKing-github/github-readme-stats)
 <!--
